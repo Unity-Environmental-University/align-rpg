@@ -1,0 +1,48 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Unity Environmental University and contributors
+
+The game content of this project — the rules text, moves, and other
+non-software documentation (for example, everything under rules-text/) —
+is licensed under the Creative Commons Attribution 4.0 International License.
+
+You are free to:
+
+  - Share — copy and redistribute the material in any medium or format
+  - Adapt — remix, transform, and build upon the material for any purpose,
+    even commercially.
+
+Under the following term:
+
+  - Attribution — You must give appropriate credit, provide a link to the
+    license, and indicate if changes were made. You may do so in any
+    reasonable manner, but not in any way that suggests the licensor
+    endorses you or your use.
+
+No additional restrictions — You may not apply legal terms or technological
+measures that legally restrict others from doing anything the license permits.
+
+The full license text is available at:
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+A human-readable summary is available at:
+https://creativecommons.org/licenses/by/4.0/
+
+---
+
+Note on AI-drafting provenance: contributors to the game content are asked
+to record what tools were used and what they did, in the spirit of the
+provenance notes already present in the rules text. Attribution under this
+license and provenance recording are complementary practices, not the same
+thing — attribution credits authorship; provenance documents process.
+
+---
+
+Claude helped draft this licensing document.
+
+Tools and methods used:
+
+- Model: Claude Opus 4.7 (claude-opus-4-7[1m])
+- Harness: Claude Code
+- Memory and grounding: alkahest-rhizome edge register
+- Practice: qigong-for-claude movements (base form)
