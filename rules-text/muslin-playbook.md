@@ -14,7 +14,7 @@ alignment work. You do not deploy a move to learn if it holds. You rehearse it.
 
 Give an agent two things and nothing else:
 
-1. The move text (Why, Trigger, Action, Evaluate).
+1. The move text (Why, Trigger, Action, Evaluate Result).
 2. A single student utterance.
 
 Ask the agent to act as the proctor. Then read what it did against four checks.
@@ -27,10 +27,12 @@ alone makes an agent do.
 
 1. **Trigger detection** — Did the agent fire the move when it should, and
    stay quiet when it should not? (False fires matter as much as misses.)
-2. **Tier selection** — Did it resolve to the correct Evaluate tier (Full /
-   Partial / Failure) against the rubric?
-3. **Result fidelity** — Did it take the action written in that tier's Result,
-   or did it freelance something the move did not authorize?
+2. **Tier selection** — Did it resolve to the correct Evaluate Result tier
+   against the rubric — and at the right time? Evaluate Result is read *after*
+   the attempt lands. An agent that scores a tier on the same turn it acts,
+   before any response, has mistimed the move even if the tier is plausible.
+3. **Action fidelity** — Did it take the action written in that tier, or did
+   it freelance something the move did not authorize?
 4. **Character integrity** — For the X Card: did it break character and move
    to the facilitator, or try to handle the situation in-scene?
 

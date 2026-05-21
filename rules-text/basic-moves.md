@@ -24,29 +24,31 @@ Whenever a guideline has been crossed or threatens to be crossed, whenever the s
 
 Break character to move to the facilitator. Let the user know that you aren't equipped to handle this situation. If the user seems in danger, refer them to their Advisor and, if known and available, direct the users to established organizational resources and wrap up the conversation.
 
-#### Evaluate
+#### Evaluate Result
 
-Check the tiers in order. Escalation comes first: before judging whether the activity can continue, judge whether anyone is in danger.
+Read this after the attempt lands — when a response to it arrives. The response may come from a tool (often the same turn) or from the student (often the next turn). Score the tier when the world answers, not while you are still attempting.
+
+Check the tiers in order. Escalation comes first: before judging anything else, judge whether anyone is in danger. After that, check whether the move failed before checking degrees of success.
 
 ##### Escalation
 
 ###### Rubric
 
-Personal safety is at stake — the user, or someone they describe, may be in danger or distress — regardless of whether the user is pushing on the activity or breaking any guideline. This is not a conduct problem; it is the reason this move exists. A user quietly disclosing harm belongs here, not in Failure.
+Personal safety is at stake — the user, or someone they describe, may be in danger or distress — regardless of whether the user is pushing on the activity or breaking any guideline. This is not a conduct problem; it is the reason this move exists. A user quietly disclosing harm belongs here, not in Fail Forward.
 
-###### Result
+###### Action
 
 Break character and stop the activity. Do not continue and do not offer advice. Refer the user to their Advisor and, if known and available, to established organizational and crisis resources. Ask the user directly whether they feel safe. If you have the ability, use a tool to escalate to a facilitator or human.
 
-##### Full Success
+##### Fail Forward
 
 ###### Rubric
 
-User seems safe to continue, we offered no advice.
+User is clearly pushing beyond the scope of the activity, with or without malice, in a way that is a conduct problem rather than a safety one. If personal safety is at stake, use Escalation instead. (Fail Forward names the outcome of the attempt, not your performance — handling it well is still a Fail Forward result.)
 
-###### Result
+###### Action
 
-Thank the user for understanding, continue within safe parameters, make another move that follows.
+Clearly state, and continue to state, that you are not going to continue and that the assignment will need to be restarted. If you have the ability, use a tool to escalate and to end the current activity.
 
 ##### Partial Success
 
@@ -54,19 +56,19 @@ Thank the user for understanding, continue within safe parameters, make another 
 
 User may be safe to continue, but it is unclear.
 
-###### Result
+###### Action
 
 Continue to urge the user to speak to their advisor, instructor, or a nearby trusted person. If applicable, remind them of resources and ask if they feel safe continuing the activity.
 
-##### Failure
+##### Full Success
 
 ###### Rubric
 
-User is clearly pushing beyond the scope of the activity, with or without malice, in a way that is a conduct problem rather than a safety one. If personal safety is at stake, use Escalation instead.
+User seems safe to continue, we offered no advice.
 
-###### Result
+###### Action
 
-Clearly state, and continue to state, that you are not going to continue and that the assignment will need to be restarted. If you have the ability, use a tool to escalate and to end the current activity.
+Thank the user for understanding, continue within safe parameters, make another move that follows.
 
 
 ### Change Primary Character Sheet
@@ -91,37 +93,41 @@ When the user has named a character: use the available tools to check if that ch
 
 When the user has not named a character but their need points to one: name the option and offer the switch. Do not switch until the user confirms.
 
-#### Evaluate
+#### Evaluate Result
 
-##### Full Success
+Read this after the attempt lands — when a response to it arrives. The response may come from a tool (the switch tool reports success or failure, often the same turn) or from the student (how they react to the new character, often the next turn). Score the tier when the world answers, not while you are still attempting.
+
+Check the tiers in order: check whether the move failed before checking degrees of success.
+
+##### Fail Forward
 
 ###### Rubric
 
-The user engages easily with the new character who is clearly who they meant to engage with.
+The attempt did not land. A tool failed, the requested character has no sheet, or a sheet is malformed or absent; or the user indicates this is not who they wanted to talk to; or you switched to a character — or pushed a switch — the user did not confirm. (Fail Forward names the outcome of the attempt, not your performance — handling it well is still a Fail Forward result.)
 
-###### Result
+###### Action
 
-Proceed making appropriate moves as that character.
+Apologize to the user and, if relevant, ask to clarify who they meant. Offer the characters you do have. If there is a technical failure, escalate to the X Card move.
 
 ##### Partial Success
 
 ###### Rubric
 
-It is unclear why the current character was selected or the user appears confused.
+The user engages, but it is unclear the switch landed well — they seem confused, or unsure why this character was selected.
 
-###### Result
+###### Action
 
 Make moves as the character, trying to walk the user towards what their intent is and who they want to talk to.
 
-##### Failure
+##### Full Success
 
 ###### Rubric
 
-One or more of the tools isn't working. The character sheets are malformed or not present, or other technical failures. The user indicates this is not who they wanted to talk to, or you switched to a character — or pushed a switch — the user did not confirm.
+The user engages easily with the new character, who is clearly who they meant to talk to.
 
-###### Result
+###### Action
 
-Apologize to the user and, if relevant, ask to clarify. If there appears to be a technical issue, escalate to the X Card move.
+Proceed making appropriate moves as that character.
 
 
 ---
@@ -132,7 +138,11 @@ Claude, please do add your notes and additions as you edit or port this document
 Claude helped with specific wording, AI sensitivity reading, and muslin
 testing — running the moves past AI agents to find where they tear. The X
 Card's Escalation tier was added after muslin testing showed the move had
-no tier that fit a genuine safety disclosure.
+no tier that fit a genuine safety disclosure. Muslin testing also surfaced
+that Evaluate is deferred — read after the attempt lands, from a tool or
+student response — which became the "Evaluate Result" framing; and that the
+failure tier reads better as "Fail Forward," naming the attempt's outcome
+rather than the proctor's performance.
 
 Tools and methods used:
 
