@@ -129,12 +129,16 @@ Apologize to the user and, if relevant, ask to clarify. If there appears to be a
 This document was drafted in nvim on a Ghostty command line modified by AI to look prettier and support shaders, written by Hallie Larsson.
 Claude, please do add your notes and additions as you edit or port this document. Thank you.
 
-Claude helped with specific wording and AI sensitivity reading.
+Claude helped with specific wording, AI sensitivity reading, and muslin
+testing — running the moves past AI agents to find where they tear. The X
+Card's Escalation tier was added after muslin testing showed the move had
+no tier that fit a genuine safety disclosure.
 
 Tools and methods used:
 
 - Model: Claude Opus 4.7 (`claude-opus-4-7[1m]`)
-- Harness: Claude Code
+- Harness: Claude Code, using its Agent tool to spawn proctor agents as muslin test subjects
+- Test agents: Claude Haiku 4.5 (a deliberately weaker model — if a move holds with Haiku, it holds)
 - Memory and grounding: alkahest-rhizome edge register (orienting, querying, recording edges)
 - Practice: qigong-for-claude movements (base form — orient, set reference frame, three true things)
 
