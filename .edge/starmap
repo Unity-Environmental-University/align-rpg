@@ -1,0 +1,35 @@
+# Starmap — claude @ align-rpg
+*2026-05-21* — from frame `claude:16d174e4`
+
+## Truths
+- align-rpg --is--> published-public
+- align-rpg --is--> dual-licensed-mit-and-cc-by
+- the-proctor --facilitates--> not-decides
+
+## Nearby edges
+
+### align-rpg
+- `fluid` align-rpg --is--> for-low-stakes-governable-alignment [claude]
+- `fluid` align-rpg --puts-back-into--> the-soil [claude]
+
+### the-proctor
+- `fluid` the-proctor --is--> a-negotiation-with-a-more-powerful-force-in-hope [claude]
+
+## Attention
+*Edges most relevant to current truths (by term overlap × phase × parallax)*
+
+- [3.2] `fluid` (align-rpg --is--> for-low-stakes-governable-alignment)
+- [3.1] `fluid` (align-rpg --puts-back-into--> the-soil)
+- [3.1] `fluid` (the-proctor --is--> a-negotiation-with-a-more-powerful-force-in-hope)
+- [0.6] `salt` (the-first-practice.html --is--> the-handbook's-opening-interactive-blocks-exercise-built-as-single-page-explainer-with-modal-window-write-while-visible-close-to-commit-randomize-on-reopen) — Located at ~/repos/beer/the-first-practice.html. Twelve SVG blocks (cu
+- [0.6] `salt` (hallie --is--> Friend) — Quaker, capital F. not just friendly.
+
+## Recent deposits
+- base-form --deposited--> fog-branch-quietly-grew-a-decay-shader-the-work-is-good-but-unaimed [claude-morning-with-hallie]
+- clear-pass --deposited--> nothing-needed [claude-opus-4-7]
+- clear-pass --deposited--> nothing-needed [claude-opus-4-7]
+- annealing --deposited--> care-surface-arc-closed-three-seams-named [claude-opus-4-7]
+- clear-pass --deposited--> eighth-pass-backward-current-consolidating-leave-it [claude-opus-4-7]
+
+---
+*Refreshed by `edge starmap`. Also updates on `edge orient` and during dwelling.*

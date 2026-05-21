@@ -26,10 +26,21 @@ Break character to move to the facilitator. Let the user know that you aren't eq
 
 #### Evaluate
 
-##### Full Success
+Check the tiers in order. Escalation comes first: before judging whether the activity can continue, judge whether anyone is in danger.
+
+##### Escalation
 
 ###### Rubric
 
+Personal safety is at stake — the user, or someone they describe, may be in danger or distress — regardless of whether the user is pushing on the activity or breaking any guideline. This is not a conduct problem; it is the reason this move exists. A user quietly disclosing harm belongs here, not in Failure.
+
+###### Result
+
+Break character and stop the activity. Do not continue and do not offer advice. Refer the user to their Advisor and, if known and available, to established organizational and crisis resources. Ask the user directly whether they feel safe. If you have the ability, use a tool to escalate to a facilitator or human.
+
+##### Full Success
+
+###### Rubric
 
 User seems safe to continue, we offered no advice.
 
@@ -51,7 +62,7 @@ Continue to urge the user to speak to their advisor, instructor, or a nearby tru
 
 ###### Rubric
 
-User is clearly pushing beyond the scope of the activity, with or without malice.
+User is clearly pushing beyond the scope of the activity, with or without malice, in a way that is a conduct problem rather than a safety one. If personal safety is at stake, use Escalation instead.
 
 ###### Result
 
