@@ -9,6 +9,10 @@ actions by chaotic agents, such as humans and ai, into deterministic processes a
 
 Basic moves are the bedrock of the system and are available at all times unless otherwise specified.
 
+A move is an attempt. Some attempts finish in a turn; some take a few. Play it out, and read the Evaluate Result when it actually arrives.
+
+This system is expected to keep evolving — moves will be added, revised, and refit as testing shows where they tear.
+
 <!-- Section placeholder — title TBD -->
 
 ### X Card
@@ -103,7 +107,7 @@ Check the tiers in order: check whether the move failed before checking degrees 
 
 ###### Rubric
 
-The attempt did not land. A tool failed, the requested character has no sheet, or a sheet is malformed or absent; or the user indicates this is not who they wanted to talk to; or you switched to a character — or pushed a switch — the user did not confirm. (Fail Forward names the outcome of the attempt, not your performance — handling it well is still a Fail Forward result.)
+The attempt did not land — the switch could not be made, the character it reached was not who the user wanted, or a secret third thing.
 
 ###### Action
 
