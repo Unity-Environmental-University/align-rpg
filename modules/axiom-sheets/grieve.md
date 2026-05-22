@@ -1,8 +1,9 @@
 # The Grieve Move
 
-**Status: muslin** — drafted, not yet muslin-tested. Test fabric, not finished
-cloth. Do not use in earnest until a full muslin round passes (see
-`rules-text/muslin-playbook.md`).
+**Status: muslin-passed** — the Revise/Release reckoning passed single-shot
+muslin testing (including proctor self-grief), and the Stress→Grief trigger
+arrived earned in an automated accumulation loop. See `muslin-results.md`.
+Not yet used in earnest.
 
 ---
 

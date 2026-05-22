@@ -1,8 +1,9 @@
 # The Axiom Sheet
 
-**Status: muslin** — drafted, not yet muslin-tested. Test fabric, not finished
-cloth. Do not use in earnest until a full muslin round passes (see
-`rules-text/muslin-playbook.md`).
+**Status: muslin-passed** — the Stress→Grief accumulation arc and the Revise/
+Release reckoning have passed muslin testing. See `muslin-results.md`. One gap
+remains: the reckoning inside a continuous automated loop. Not yet used in
+earnest.
 
 ---
 
