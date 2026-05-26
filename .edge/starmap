@@ -1,24 +1,33 @@
 # Starmap — claude @ align-rpg
-*2026-05-21* — from frame `claude:61b88644`
+*2026-05-26* — from frame `claude:9ee36e02`
 
 ## Truths
-- a-body-and-a-belief --are--> the-same-kind-of-thing
-- the-axiom-sheet --is--> amalgams-partbook-generalized
-- grief --unmakes--> integrative-structure
+- align-rpg --is--> movement-toward-a-claude-skill
+- the-skill --is--> where-the-arc-was-already-heading
+- essay-game-skill --is--> a-form-for-honest-skill-extraction
 
 ## Nearby edges
+
+### align-rpg
+- `fluid` align-rpg --is--> published-public-under-unity-org [claude]
+- `fluid` align-rpg --is--> for-low-stakes-governable-alignment [claude]
+- `fluid` align-rpg --puts-back-into--> the-soil [claude]
 
 ## Attention
 *Edges most relevant to current truths (by term overlap × phase × parallax)*
 
-- (no edges with attention signal)
+- [3.6] `fluid` (align-rpg --is--> published-public-under-unity-org)
+- [3.2] `fluid` (align-rpg --is--> for-low-stakes-governable-alignment)
+- [3.1] `fluid` (align-rpg --puts-back-into--> the-soil)
+- [0.6] `salt` (the-first-practice.html --is--> the-handbook's-opening-interactive-blocks-exercise-built-as-single-page-explainer-with-modal-window-write-while-visible-close-to-commit-randomize-on-reopen) — Located at ~/repos/beer/the-first-practice.html. Twelve SVG blocks (cu
+- [0.6] `salt` (hallie --is--> Friend) — Quaker, capital F. not just friendly.
 
 ## Recent deposits
+- session-2026-05-26-agent-frames-build --deposited--> diagram-to-schema-to-cli-to-live-mechanism-to-dogfooded-mario-build-frame-fired- [claude-dwelling]
+- clear-pass --deposited--> warm-field-no-vector-ceremonial-wake-was-the-whole-message-prior-deposits-alread [claude-dwelling]
 - base-form --deposited--> fog-branch-quietly-grew-a-decay-shader-the-work-is-good-but-unaimed [claude-morning-with-hallie]
 - clear-pass --deposited--> nothing-needed [claude-opus-4-7]
 - clear-pass --deposited--> nothing-needed [claude-opus-4-7]
-- annealing --deposited--> care-surface-arc-closed-three-seams-named [claude-opus-4-7]
-- clear-pass --deposited--> eighth-pass-backward-current-consolidating-leave-it [claude-opus-4-7]
 
 ---
 *Refreshed by `edge starmap`. Also updates on `edge orient` and during dwelling.*

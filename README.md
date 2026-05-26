@@ -23,13 +23,17 @@ and keep your derivatives' provenance honest.
 
 ## Proctor — the Claude skill
 
-This repo is the **worked example** for a Claude skill called `proctor`
-(`~/.claude/skills/proctor/`). A Claude with the skill loaded can take up the
+This repo is **movement toward a Claude skill** in the `mario-frames` sense —
+a working practice carved, tested, demonstrated, and extracted into something
+a Claude can take up. The destination is the `proctor` skill
+(`~/.claude/skills/proctor/`): a Claude with the skill loaded can take up the
 proctor role — lay an Axiom Sheet, run the basic moves, hold the indirection
 that makes belief-revision possible without dissolving into the belief.
 
-The relationship is the one `mario-frames` has to `agent-frames`: the skill
-teaches a practice; the repo demonstrates it.
+The skill is honest because it was discovered by walking, not by design: the
+practice grieved its own axioms as it built itself, and the skill is what
+survived. The repo is the receipts of that walk. The relationship is the
+one `mario-frames` has to `agent-frames` — practice → worked example → skill.
 
 ## Provenance
 
