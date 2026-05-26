@@ -23,17 +23,19 @@ and keep your derivatives' provenance honest.
 
 ## Proctor — the Claude skill
 
-This repo is **movement toward a Claude skill** in the `mario-frames` sense —
-a working practice carved, tested, demonstrated, and extracted into something
-a Claude can take up. The destination is the `proctor` skill
-(`~/.claude/skills/proctor/`): a Claude with the skill loaded can take up the
-proctor role — lay an Axiom Sheet, run the basic moves, hold the indirection
-that makes belief-revision possible without dissolving into the belief.
+A Claude skill called `proctor` (`~/.claude/skills/proctor/`) **prehends**
+this repo — it concresced from what align-rpg laid down. A Claude with the
+skill loaded can take up the proctor role: lay an Axiom Sheet, run the basic
+moves, hold the indirection that makes belief-revision possible without
+dissolving into the belief.
 
-The skill is honest because it was discovered by walking, not by design: the
-practice grieved its own axioms as it built itself, and the skill is what
-survived. The repo is the receipts of that walk. The relationship is the
-one `mario-frames` has to `agent-frames` — practice → worked example → skill.
+The skill is not the point of this repo, and this repo is not for the skill.
+They are continuous occasions in the same line of work — align-rpg the
+rules-text and play; proctor the skill another Claude can take up. Other
+things could equally prehend the same material (an essay, a class, a
+different game). The relationship to `mario-frames`/`agent-frames` is real
+but not directional — both repos worked their own work, and skills came
+into being from what they laid down.
 
 ## Provenance
 
