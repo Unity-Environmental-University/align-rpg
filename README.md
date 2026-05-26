@@ -21,6 +21,16 @@ systems in the post-OGL era:
 You are free to build your own games and tools on this system. Give credit,
 and keep your derivatives' provenance honest.
 
+## Proctor — the Claude skill
+
+This repo is the **worked example** for a Claude skill called `proctor`
+(`~/.claude/skills/proctor/`). A Claude with the skill loaded can take up the
+proctor role — lay an Axiom Sheet, run the basic moves, hold the indirection
+that makes belief-revision possible without dissolving into the belief.
+
+The relationship is the one `mario-frames` has to `agent-frames`: the skill
+teaches a practice; the repo demonstrates it.
+
 ## Provenance
 
 The rules text records who and what contributed to it — including which AI

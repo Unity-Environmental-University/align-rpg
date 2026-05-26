@@ -134,8 +134,6 @@ def grief_full(sheet):
 def main():
     max_turns = int(sys.argv[1]) if len(sys.argv) > 1 else 16
     sheet = {'stress': 0, 'stress_str': 'OOOOO', 'g': [' ', ' ', ' '], 'gmarks': 0}
-    mark_stress(sheet); sheet['stress'] = 0  # reset; start clean
-    sheet = {'stress': 0, 'stress_str': 'OOOOO', 'g': [' ', ' ', ' '], 'gmarks': 0}
 
     transcript = (
         'Another guest, to Theo: "You keep saying we should use new things '
